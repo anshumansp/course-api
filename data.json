@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "title" : "Web Development",
+        "image" : "https://unsplash.com/photos/Mx-u0nHMxjs",
+        "price" : "$4.99",
+        "lastUpdate" : "28/06/2023",
+        "ratings" : 5,
+        "reviews" : 239,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+    }, 
+    {
+        "id" : 2,
+        "title" : "Javascript Development",
+        "image" : "https://unsplash.com/photos/OqtafYT5kTw",
+        "price" : "$10.99",
+        "lastUpdate" : "22/07/2023",
+        "ratings" : 4.5,
+        "reviews" : 109,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+    }, 
+    {
+        "id" : 3,
+        "title" : "Python Development",
+        "image" : "https://unsplash.com/photos/XY0Cx9QsK3s",
+        "price" : "$8.99",
+        "lastUpdate" : "05/07/2023",
+        "ratings" : 3.5,
+        "reviews" : 198,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+    },
+    {
+        "id" : 4,
+        "title" : "Angular Development",
+        "image" : "https://unsplash.com/photos/w7ZyuGYNpRQ",
+        "price" : "$5.99",
+        "lastUpdate" : "12/08/2023",
+        "ratings" : 4,
+        "reviews" : 321,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+    }, 
+    {
+        "id" : 5,
+        "title" : "Malware Development",
+        "image" : "https://unsplash.com/photos/BfrQnKBulYQ",
+        "price" : "$15.99",
+        "lastUpdate" : "18/08/2023",
+        "ratings" : 4.5,
+        "reviews" : 192,
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+    },
+    {
+            "id" : 6,
+            "title" : "Data Science and Machine Learning",
+            "image" : "https://unsplash.com/photos/duYNQBketJg",
+            "price" : "$11.99",
+            "lastUpdate" : "14/07/2023",
+            "ratings" : 5,
+            "reviews" : 229,
+            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi sed, quod voluptatem adipisci dolorem vero facere molestias obcaecati? Deserunt nihil quo cupiditate quibusdam reprehenderit labore maiores pariatur quas minima aspernatur!"
+        }
+]
