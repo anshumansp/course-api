@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "title" : "Web Development",
-        "image" : "https://unsplash.com/photos/Mx-u0nHMxjs",
+        "image" : "https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "price" : "$4.99",
         "lastUpdate" : "28/06/2023",
         "ratings" : 5,
@@ -12,7 +12,7 @@
     {
         "id" : 2,
         "title" : "Javascript Development",
-        "image" : "https://unsplash.com/photos/OqtafYT5kTw",
+        "image" : "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
         "price" : "$10.99",
         "lastUpdate" : "22/07/2023",
         "ratings" : 4.5,
@@ -22,7 +22,7 @@
     {
         "id" : 3,
         "title" : "Python Development",
-        "image" : "https://unsplash.com/photos/XY0Cx9QsK3s",
+        "image" : "https://plus.unsplash.com/premium_photo-1678566153919-86c4ba4216f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "price" : "$8.99",
         "lastUpdate" : "05/07/2023",
         "ratings" : 3.5,
@@ -32,7 +32,7 @@
     {
         "id" : 4,
         "title" : "Angular Development",
-        "image" : "https://unsplash.com/photos/w7ZyuGYNpRQ",
+        "image" : "https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
         "price" : "$5.99",
         "lastUpdate" : "12/08/2023",
         "ratings" : 4,
@@ -42,7 +42,7 @@
     {
         "id" : 5,
         "title" : "Malware Development",
-        "image" : "https://unsplash.com/photos/BfrQnKBulYQ",
+        "image" : "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "price" : "$15.99",
         "lastUpdate" : "18/08/2023",
         "ratings" : 4.5,
@@ -52,7 +52,7 @@
     {
             "id" : 6,
             "title" : "Data Science and Machine Learning",
-            "image" : "https://unsplash.com/photos/duYNQBketJg",
+            "image" : "https://images.unsplash.com/photo-1617240016072-d92174e44171?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
             "price" : "$11.99",
             "lastUpdate" : "14/07/2023",
             "ratings" : 5,
